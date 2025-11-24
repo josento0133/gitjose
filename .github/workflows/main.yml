@@ -22,4 +22,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: josento/a63:latest
+          tags: josento0133/a62:latest
